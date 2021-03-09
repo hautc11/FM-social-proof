@@ -150,10 +150,10 @@ body{
                 p{  
                     margin-left: 2rem;
                     line-height: 2rem;
-                    #name{
+                    .name{
                         font-weight: 700;
                     }
-                    #status{
+                    .status{
                         padding-top: 1rem;
                         color: $DarkGrayishMagenta;
                     }

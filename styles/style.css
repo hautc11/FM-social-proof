@@ -214,11 +214,11 @@ body .comment .card-container .card-header p {
   line-height: 2rem;
 }
 
-body .comment .card-container .card-header p #name {
+body .comment .card-container .card-header p .name {
   font-weight: 700;
 }
 
-body .comment .card-container .card-header p #status {
+body .comment .card-container .card-header p .status {
   padding-top: 1rem;
   color: #937b92;
 }
